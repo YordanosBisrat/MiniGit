@@ -1,0 +1,5 @@
+<<<<<<< CURRENT
+This is the content from the main branch.
+=======
+This is the content from the feature branch.
+>>>>>>> TARGET
