@@ -2,7 +2,17 @@
 
 ## Description
 
-MiniGit is a lightweight, C++-based version control system that mimics the core features of Git. Built from scratch without relying on external libraries, this CLI tool enables file tracking, commits, branches, merges, and conflict resolution. It's designed to help students deeply understand the data structures and algorithms that power real-world systems like Git.
+MiniGit is a lightweight, Git-inspired version control system built from scratch in C++. It allows basic Git-like operations such as:
+
+- Initializing a repository
+- Adding and committing files
+- Creating branches
+- Switching between branches or commits
+- Merging branches with conflict handling
+- Viewing commit history
+- (Optional) Diffing between commits
+
+All operations are done via a Command-Line Interface (CLI), simulating a local Git workflow.
 
 ## Sample Usage
 
